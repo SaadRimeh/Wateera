@@ -1,12 +1,20 @@
-# Wateera (وتيرة) 🚀
+<p align="center">
+  <img src="./assets/images/logo.png" alt="Wateera Logo" width="160" />
+</p>
 
-[![Expo](https://img.shields.io/badge/Expo-SDK%2053-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-[![React Native](https://img.shields.io/badge/React_Native-0.76-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+<h1 align="center">Wateera (وتيرة)</h1>
 
-> **Wateera (وتيرة)** — The unified personal life operating system and execution engine. Built with extreme attention to aesthetic detail, air-gapped privacy, and 100% offline-first reliability.
+<p align="center">
+  <b>The Unified Personal Life Operating System & Offline Execution Engine</b>
+</p>
+
+<p align="center">
+  <a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-SDK%2053-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-0.76-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.android.com"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
+</p>
 
 ---
 
